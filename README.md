@@ -4,11 +4,10 @@
 
 ---
 
+
+
 ## Usage
+Run the .exe or the python script and a command line prompt will appear. Follow the instructions.
 
----
-
-Run the .exe or the python script and a command line prompt will appear. Follow the instructions. 
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+![Recordit GIF](http://g.recordit.co/a64wwpteoC.gif)
 
